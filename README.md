@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DBallesteros96
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: daniel.ballesteros.medrano@gmail.com
 
