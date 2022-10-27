@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DBallesteros96
+- 👋 Hi, I’m Daniel Ballesteros
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
